@@ -18,4 +18,3 @@ calibration/test_calibrations.ipynb
 ./interface_main.py
 calibration/calibration_test_notebook.ipynb
 calibration/sun_planning/*
-/.vscode
